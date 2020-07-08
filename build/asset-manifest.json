@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hack-exchange/static/css/main.75df9f48.chunk.css",
+    "main.js": "/hack-exchange/static/js/main.d3936961.chunk.js",
+    "main.js.map": "/hack-exchange/static/js/main.d3936961.chunk.js.map",
+    "runtime-main.js": "/hack-exchange/static/js/runtime-main.2f1122bb.js",
+    "runtime-main.js.map": "/hack-exchange/static/js/runtime-main.2f1122bb.js.map",
+    "static/css/2.9ff99f11.chunk.css": "/hack-exchange/static/css/2.9ff99f11.chunk.css",
+    "static/js/2.72c37546.chunk.js": "/hack-exchange/static/js/2.72c37546.chunk.js",
+    "static/js/2.72c37546.chunk.js.map": "/hack-exchange/static/js/2.72c37546.chunk.js.map",
+    "index.html": "/hack-exchange/index.html",
+    "precache-manifest.c5cb019f0a91f021cf0c893adb4da5c2.js": "/hack-exchange/precache-manifest.c5cb019f0a91f021cf0c893adb4da5c2.js",
+    "service-worker.js": "/hack-exchange/service-worker.js",
+    "static/css/2.9ff99f11.chunk.css.map": "/hack-exchange/static/css/2.9ff99f11.chunk.css.map",
+    "static/css/main.75df9f48.chunk.css.map": "/hack-exchange/static/css/main.75df9f48.chunk.css.map",
+    "static/js/2.72c37546.chunk.js.LICENSE.txt": "/hack-exchange/static/js/2.72c37546.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f1122bb.js",
+    "static/css/2.9ff99f11.chunk.css",
+    "static/js/2.72c37546.chunk.js",
+    "static/css/main.75df9f48.chunk.css",
+    "static/js/main.d3936961.chunk.js"
+  ]
+}
